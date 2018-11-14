@@ -1,3 +1,1 @@
-# expensify-app
-# expensify
 # pm
